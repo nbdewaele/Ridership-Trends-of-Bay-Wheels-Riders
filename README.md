@@ -7,7 +7,7 @@ Within this initiative, my role as a Junior Data Analyst is integral to the Mark
 Goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, the marketing analyst team needs to better understand:
 * How annual members and casual riders differ (The purpose of this project)
 * Why casual riders would buy a membership
-* How digital media could affect their marketing tactics. 
+* How digital media could affect their marketing tactics.
 
 In order to achieve the goal, these are the questions I'm going to answer:
 * How do annual members and casual riders use Cyclistic bikes differently?
@@ -25,6 +25,7 @@ Go [here(https://posit.co/download/rstudio-desktop/) to install R and RStudio
 ## Usage
 * Open the project in RStudio
 * check /data/raw to see if the data is already there (You may need to unhide it).  If is is not there, add the data you downloaded there.
+* Alternatively, you can follow along at my [Kaggle](https://www.kaggle.com/code/natedewaele/ridership-trends-of-bay-wheels/edit/run/150942190) notebook.
 
 ## Usage
 ### How to use the files
