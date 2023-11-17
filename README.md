@@ -20,7 +20,7 @@ In order to achieve the goal, these are the questions I'm going to answer:
 Go [here(https://posit.co/download/rstudio-desktop/) to install R and RStudio
 1. Install R
 2. Install RStudio
-3. Download the raw data [here]([here](https://s3.amazonaws.com/baywheels-data/index.html) if you want to follow along with the .Rmd file
+3. Download the raw data [here](https://s3.amazonaws.com/baywheels-data/index.html) if you want to follow along with the .Rmd file
 
 ## Usage
 * Open the project in RStudio
